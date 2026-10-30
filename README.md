@@ -14,7 +14,7 @@ Set up a Kali Linux environment in VirtualBox and prepared the lab for cybersecu
 ### Week 2 — Footprinting & Network Reconnaissance
 Practised information gathering, DNS enumeration, network scanning, and web technology identification using cybersecurity tools.
 
-**[Explore Week 2 →](WEEK-2/README.md)**
+**[Explore Week 2 →](WEEK_2/README.md)**
 
 ### Week 3 — Password Security
 Worked on password-security exercises, exploring password assessment techniques and documenting the practical results.
