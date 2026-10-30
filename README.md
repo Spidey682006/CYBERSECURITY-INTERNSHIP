@@ -9,7 +9,7 @@ This repository documents my practical learning, testing methodologies, observat
 ### Week 1 — Lab Setup
 Set up a Kali Linux environment in VirtualBox and prepared the lab for cybersecurity exercises.
 
-**[Explore Week 1 →](./WEEK 1)**
+**[Explore Week 1 →](./WEEK 1/README.md)**
 
 ### Week 2 — Footprinting & Network Reconnaissance
 Practised information gathering, DNS enumeration, network scanning, and web technology identification using cybersecurity tools.
